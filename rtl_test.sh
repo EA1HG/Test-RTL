@@ -76,7 +76,7 @@ then
     echo "-------"
     echo "Your power supply is not adequate, consider the Official Raspberry Pi power supply."
     echo "Any constant voltage supply with 5.1 to 5.2 Volts and 2.5A capability is also a good choice."
-    echo "Inadequate power supplies can lead to many different problems!"
+    echo "Las fuentes de alimentación inadecuadas pueden conducir a muchos problemas diferentes!"
     echo "-------"
 else
     echo "-------"
