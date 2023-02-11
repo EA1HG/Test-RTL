@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if ! dpkg -s rtl-sdr 2>/dev/null | grep 'Status.*installed' &>/dev/null
 then
     if ! apt-get install --no-install-recommends --no-install-suggests --reinstall -y rtl-sdr
