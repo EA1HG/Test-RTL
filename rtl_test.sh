@@ -46,14 +46,14 @@ fi
 
 
 echo "-----"
-echo "Lost samples in the first 2 seconds after starting the test are common and not a problem!"
+echo "Las muestras perdidas en los primeros 2 segundos después de comenzar la prueba son comunes y no son un problema!"
 echo "Starting 30 second rtl_test, standby!"
 echo "-----"
 
 timeout 30 rtl_test -s 2400000
 
 echo "-------"
-echo "Test finished!"
+echo "Prueba terminada!"
 echo "More than 2 lost samples per million or other errors probably mean the receiver isn't working correctly."
 echo "Try another power supply before condemning the receiver though!"
 echo "-------"
