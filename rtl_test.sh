@@ -83,6 +83,6 @@ else
     echo "No se detectó subtensión, todo ok!"
     echo "Si el dongle no está conectado directamente a la Raspberry Pi, la falta de energía/voltaje aún podría ser un problema."
     echo "Incluso sin subtensión detectada, una mejor fuente de alimentación a menudo puede mejorar la recepción!"
-    echo "Para un rendimiento óptimo, recomendaría la fuente de alimentación de calidad y con ptencia minia de 2 amp."
+    echo "Para un rendimiento óptimo, recomendaría la fuente de alimentación de calidad y con potencia minia de 2 amp."
     echo "-------"
 fi
