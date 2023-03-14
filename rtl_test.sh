@@ -85,4 +85,5 @@ else
     echo "Incluso sin subtensión detectada, una mejor fuente de alimentación a menudo puede mejorar la recepción!"
     echo "Para un rendimiento óptimo, recomendaría la fuente de alimentación de calidad y con potencia minima de 2 amp."
     echo "Fin del test"
+    echo "-------"
 fi
