@@ -45,7 +45,7 @@ then
 fi
 
 
-echo "-----"
+echo "Comineza el test"
 echo "Las muestras perdidas en los primeros 2 segundos después de comenzar la prueba son comunes y no son un problema!"
 echo "Prueba de 30 segundos rtl_test, en espera!"
 echo "-----"
